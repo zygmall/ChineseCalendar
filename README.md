@@ -1,2 +1,3 @@
 # ChineseCalendar
 ChineseCalendar
+利用cnVcl日历控件制作的农历万年历，在lazarus下编译
